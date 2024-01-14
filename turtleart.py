@@ -1,5 +1,5 @@
 import turtle
-colors = ['red', 'orange', 'blue', 'yellow', 'green', 'red']
+colors = ['red', 'yellow', 'blue', 'yellow', 'green', 'red']
 shelly = turtle.Turtle()
 turtle.bgcolor('black')
 for n in range(36):
